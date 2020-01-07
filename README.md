@@ -5,6 +5,7 @@
 All projects and codes from Artificial Intelligence Class.
 
 
+# DL_CLASS
 
 2019.10 ~ 2019.12
 
